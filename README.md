@@ -1,6 +1,6 @@
 # Click Ad Prediction
 
-- The objective of this project is to predict if a given user will click on an advertisement. 
+- The objective of this project is to predict if a given user will click on an advertisement or not. 
 It can be framed as a supervised machine learning problem (binary classification)
 
 - The performance is measured using the model recall.
